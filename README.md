@@ -10,8 +10,8 @@ This repository requires Python 3. To get started, run the following commands:
 git clone https://github.com/tvdaal/stroke-predictions.git
 cd stroke-predictions
 conda env create -f environment.yml
-conda activate stroke
-python -m ipykernel install --user --name stroke --display-name "Python (stroke)"
+conda activate py39-stroke
+python -m ipykernel install --user --name stroke --display-name "py39-stroke"
 ```
 
 The virtual conda environment called 'stroke' contains all necessary packages and dependencies. The last step ensures that the IPython kernel uses the right environment.
