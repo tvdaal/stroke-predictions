@@ -1,4 +1,4 @@
-name: stroke
+name: py39-stroke
 channels:
   - conda-forge
   - defaults
@@ -120,4 +120,4 @@ dependencies:
     - typed-ast==1.4.2
     - typish==1.9.2
     - wrapt==1.12.1
-prefix: /anaconda3/envs/stroke
+prefix: /anaconda3/envs/py39-stroke
