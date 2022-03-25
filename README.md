@@ -1,5 +1,5 @@
 # Description
-This repository contains an analysis on the occurrence of strokes based on anonymized healthcare data. More specifically, it contains a Jupyter notebook that describes various machine learning approaches, including multilayer perceptrons and random forests, to predict strokes based on patient features such as age, body mass index, and smoking status. I decided to analyze this dataset for fun and to improve my classification skills for imbalanced datasets.
+This repository contains an analysis on the occurrence of strokes based on anonymized healthcare data. More specifically, it contains a Jupyter notebook (*stroke_analysis.ipynb*) that describes various machine learning approaches, including multilayer perceptrons and random forests, to predict strokes based on patient features such as age, body mass index, and smoking status. I decided to analyze this dataset for fun and to improve my classification skills for imbalanced datasets.
 
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) and is sponsored by [fedesoriano](https://www.kaggle.com/fedesoriano).
 
